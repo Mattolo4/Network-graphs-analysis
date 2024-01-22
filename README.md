@@ -6,8 +6,8 @@ All the details of the implementation, reasoning, and work flow in the **'Report
 - [Network's source](https://github.com/bstabler/TransportationNetworks/tree/master) 
 
 **Authors:**
-- Bianco Tommaso
-- Villani Matteo
+- [Bianco Tommaso](https://github.com/TommasoBi1998/TommasoBi1998)
+- [Villani Matteo](https://mattolo4.github.io/)
 - Violin Federico
 
 
