@@ -6,9 +6,9 @@ All the details of the implementation, reasoning, and work flow in the **'Report
 - [Network's source](https://github.com/bstabler/TransportationNetworks/tree/master) 
 
 **Authors:**
-- [Bianco Tommaso](https://github.com/TommasoBi1998/TommasoBi1998)
+- [Bianco Tommaso](https://github.com/TommasoBi1998)
 - [Villani Matteo](https://mattolo4.github.io/)
-- Violin Federico
+- [Violin Federico](https://github.com/Violo97)
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)  
